@@ -1,0 +1,18 @@
+MachineID,LineID,MachineName,MachineType,SequenceOnLine,IsConstraint
+L1-FDR,L1,Bar Infeed Conveyor,Infeed,1,0
+L1-FW,L1,Flow Wrapper,Wrap/Seal,2,1
+L1-CW,L1,Checkweigher,Inspection,3,0
+L1-CP,L1,Case Packer,End of line,4,0
+L2-MHW,L2,Multihead Weigher,Dosing,1,0
+L2-VFFS,L2,VFFS Bagger,Wrap/Seal,2,1
+L2-MD,L2,Metal Detector,Inspection,3,0
+L2-CP,L2,Case Packer,End of line,4,0
+L3-DN,L3,Tray Denester,Infeed,1,0
+L3-DP,L3,Depositor,Dosing,2,0
+L3-TS,L3,Tray Sealer,Wrap/Seal,3,1
+L3-LB,L3,Labeler,Labeling,4,0
+L3-CW,L3,Checkweigher,Inspection,5,0
+L4-FL,L4,Filler,Dosing,1,1
+L4-CAP,L4,Capper,Wrap/Seal,2,0
+L4-LB,L4,Labeler,Labeling,3,0
+L4-CS,L4,Case Packer,End of line,4,0

@@ -1,0 +1,5 @@
+LineID,LineName,PackTechnology,ProductCategory,ConstraintMachineID
+L1,Line 1 - Snack Bar Flow-Wrap,Flow-wrap,Dry,L1-FW
+L2,Line 2 - Pouch VFFS,Vertical form-fill-seal,Dry,L2-VFFS
+L3,Line 3 - Ready-Meal Tray Seal,Tray seal (MAP),Chilled,L3-TS
+L4,Line 4 - Sauce Jar Fill & Cap,Jar fill and cap,Ambient,L4-FL

@@ -1,0 +1,15 @@
+ReasonCode,ReasonDescription,ReasonCategory,IsPlanned,OEELossBucket
+PL-01,Scheduled break,Planned stop,True,Excluded (planned)
+PL-02,Sanitation / clean-down,Planned stop,True,Excluded (planned)
+CO-01,Product changeover,Changeover,False,Availability
+CO-02,Film / reel change,Changeover,False,Availability
+BD-01,Mechanical failure,Breakdown,False,Availability
+BD-02,Electrical / sensor fault,Breakdown,False,Availability
+BD-03,Seal jaw / heater fault,Breakdown,False,Availability
+BD-04,Pneumatic fault,Breakdown,False,Availability
+MS-01,Product jam,Minor stop,False,Availability
+MS-02,Film tracking / misfeed,Minor stop,False,Availability
+MT-01,Waiting for packaging material,Material,False,Availability
+MT-02,Waiting for product from kitchen/process,Material,False,Availability
+QA-01,QA hold / line clearance,Quality hold,False,Availability
+OP-01,No operator available,Staffing,False,Availability
